@@ -2,8 +2,13 @@ h1{
 	color:red;
 	font-family:Georgia;
 }
+p{
+        color:#DC143C;
+	font-family:Georgia;
+}
 
 body{
 	background-color:#C0C0C0
 	
 }
+
